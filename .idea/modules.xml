@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lib/Blue-Base/JVM/Blue Base.iml" filepath="$PROJECT_DIR$/lib/Blue-Base/JVM/Blue Base.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" group="App" />
+      <module fileurl="file://$PROJECT_DIR$/Desktop JVM/Desktop JVM.iml" filepath="$PROJECT_DIR$/Desktop JVM/Desktop JVM.iml" group="App" />
+      <module fileurl="file://$PROJECT_DIR$/lib/Husky-IO/JVM/Husky IO.iml" filepath="$PROJECT_DIR$/lib/Husky-IO/JVM/Husky IO.iml" group="Libraries" />
+      <module fileurl="file://$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI.iml" filepath="$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI.iml" group="Libraries" />
+    </modules>
+  </component>
+</project>
