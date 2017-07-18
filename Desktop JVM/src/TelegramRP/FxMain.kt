@@ -3,6 +3,7 @@ package TelegramRP
 
 import javafx.application.Application
 import javafx.fxml.FXMLLoader
+import javafx.scene.Scene
 import javafx.scene.layout.Pane
 import javafx.stage.Stage
 import java.util.*
@@ -19,6 +20,13 @@ class FxMain : Application() {
 
     override fun start(primaryStage: Stage) {
         primaryStage.show()
+        val location = javaClass.getResource("MainWindowPane.fxml")
+//        val bundle = ResourceBundle.getBundle("TelegramRP.MainWindowPane")
+        val loader = FXMLLoader(location)
+        val root: Pane = loader.load()
+        val controller: MainWindowPane = loader.getController()
+        val scene: Scene = primaryStage.scene
+        scene.root = root
     }
 
 
