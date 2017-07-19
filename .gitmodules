@@ -4,3 +4,9 @@
 [submodule "lib/Husky-IO"]
 	path = lib/Husky-IO
 	url = https://github.com/BlueHuskyStudios/Husky-IO.git
+[submodule "lib/Husky-UI/JVM"]
+	path = lib/Husky-UI/JVM
+	url = https://github.com/BlueHuskyStudios/Husky-UI-JVM.git
+[submodule "lib/Husky-UI/Core"]
+	path = lib/Husky-UI/Core
+	url = https://github.com/BlueHuskyStudios/Husky-UI.git
