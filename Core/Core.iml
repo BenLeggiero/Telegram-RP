@@ -20,9 +20,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
-    <orderEntry type="module" module-name="Blue Base" exported="" />
-    <orderEntry type="module" module-name="Husky IO" exported="" />
-    <orderEntry type="module" module-name="Husky UI/Core" exported="" />
-    <orderEntry type="module" module-name="Husky UI/JVM" exported="" />
+    <orderEntry type="module" module-name="Blue Base" />
+    <orderEntry type="module" module-name="Husky UI/Core" />
+    <orderEntry type="module" module-name="Husky UI/JVM" />
+    <orderEntry type="module" module-name="Husky IO" />
   </component>
 </module>
