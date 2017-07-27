@@ -6,7 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/Core/Core.iml" filepath="$PROJECT_DIR$/Core/Core.iml" group="App" />
       <module fileurl="file://$PROJECT_DIR$/Desktop JVM/Desktop JVM.iml" filepath="$PROJECT_DIR$/Desktop JVM/Desktop JVM.iml" group="App" />
       <module fileurl="file://$PROJECT_DIR$/lib/Husky-IO/JVM/Husky IO.iml" filepath="$PROJECT_DIR$/lib/Husky-IO/JVM/Husky IO.iml" group="Libraries" />
-      <module fileurl="file://U:\Libraries\Programs\Git\Telegram-RP\lib\Husky-UI\JVM\Husky UI.iml" filepath="U:\Libraries\Programs\Git\Telegram-RP\lib\Husky-UI\JVM\Husky UI.iml" group="Libraries" />
       <module fileurl="file://$PROJECT_DIR$/lib/Husky-UI/Core/JVM/Husky UI.iml" filepath="$PROJECT_DIR$/lib/Husky-UI/Core/JVM/Husky UI.iml" group="Libraries/UI" />
       <module fileurl="file://$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI JVM/JVM.iml" filepath="$PROJECT_DIR$/lib/Husky-UI/JVM/Husky UI JVM/JVM.iml" group="Libraries/UI" />
     </modules>
